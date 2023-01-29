@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first{
+    width: 90%;
+    height: 50px;
+    background-color:whitesmoke;
+    display: flex;
+    margin-left: 5%;
+}
+.first img{
+    width: 30px;
+    height: 18px;
+    margin: 15px;
+    margin-left: 20px;
+}
+.first a{
+    margin: 10px;
+}
+.first ul li a{
+    text-decoration: none;
+    color: rgb(61, 60, 60);
+    font-size: 12px;
+    padding: 10px;
+    
+}
+.first ul li{
+    margin-top: 10px;
+    list-style: none;
+    font-weight: bold;
+}
+/* header */
+.headermain{
+    display: flex;
+    background-color:white ;
+    width: 90%;
+    height: 80px;
+    margin-left: 5%;
+    position: sticky;
+    top: 0;
+}
+.child1{
+    display: flex;
+}
+._10c831ef{
+    margin-top: 15px;
+    height: 40px;
+}
+.child1 .dropbox{
+    width: 300px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 30px;
+    border: 2px solid black;
+}
+.child1 .searchbar input{
+    width: 700px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 2px solid black;
+}
+.child2 a{
+    text-decoration: none;
+    color: rgb(27, 26, 26);
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.child2 img{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+/* section */
+.section1{
+    background-color: whitesmoke;
+    width: 90%;
+    height: 50px;
+    margin-left: 5%;
+}
+.section1 ul li {
+    list-style: none;
+    padding-top: 10px;
+    word-spacing: 15px;
+}
+.section1 ul li a{
+    text-decoration: none;
+    color: rgb(34, 34, 34);
+    font-weight: bold;
+    
+}
+/* section2 */
+.section2{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 10px;
+}
+/* section3 */
+.section3 {
+    width: 90%;
+    margin-left: 25%;
+    margin-top: 10px;
+}
+/* section4 */
+.section4{
+    width: 90;
+    margin-left: 5%;
+    margin-top: 15px;
+}
+.section4 .row1 .imgadjist{
+    width: 310px;
+    height: 300px;
+    background: linear-gradient(180deg, rgba(11,14,17,1) 28%, rgba(11,14,17,1) 50%, rgba(255,255,255,1) 50%);
+    border: 2px solid black;
+    margin: 10px;
+    cursor: pointer;
+}
+.section4 img{
+    width: 200px;
+    height: 149px;
+}
+.section4 .row2 .imgadjist{
+    width: 310px;
+    height: 300px;
+    background: linear-gradient(180deg, rgba(11,14,17,1) 28%, rgba(11,14,17,1) 50%, rgba(255,255,255,1) 50%);
+    border: 2px solid black;
+    margin: 10px;
+    cursor: pointer;
+}
+.section4 .row3 .imgadjist{
+    width: 310px;
+    height: 300px;
+    background: linear-gradient(180deg, rgba(11,14,17,1) 28%, rgba(11,14,17,1) 50%, rgba(255,255,255,1) 50%);
+    border: 2px solid black;
+    margin: 10px;
+    cursor: pointer;
+}
+/* section5 */
+.section5{
+    margin-left: 20%;
+    margin-top: 10px;
+}
+/* section6 */
+.section6{
+    width: 90%;
+    height: 250px;
+    margin-left: 5%;
+    margin-top: 10px;
+    display: flex;
+}
+.section6 img{
+    padding-top: 15px;
+}
+.section6 .text{
+    text-align: center;
+    padding-top: 50px;
+    margin-left: 35px;
+    border-right: 1px solid;
+}
+.section6 .socialmedia h3{
+    padding-top: 50px;
+    padding-left: 20px;
+}
+.section6 .socialmedia img{
+    width: 100px;
+    padding-top: 10px;
+    margin-left: 20px;
+}
+/* section7 */
+.section7{
+    display: flex;
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+    background-color: rgb(252, 247, 237);
+}
+.section7 .list{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.section7 .list ul{
+    text-decoration: none;
+    list-style: none;
+}
+.section7 .list li a{
+    display: list-item;
+    text-align: -webkit-match-parent;
+    text-decoration: none;
+    color: rgb(108, 106, 106);
+    padding-top: 10px;  
+}
+.section7 .list h4{
+    font-size: 14px;
+    margin-left: 30px;
+}
+.section7 .iconfacebok{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.section7 .iconfacebok img{
+    width: 30px;
+    height: 30px;
+}
+.section7 .icon2 img{
+    width: 100px;
+    height: 50px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+/* footer */
+footer{
+    background-color: #002f34;
+    width: 100%;
+    height: 40px;
+    margin-top: 10px;
+}
+footer h5{
+    color: aliceblue;
+    font-size: 12px;
+    margin-left: 1200px;
+}
